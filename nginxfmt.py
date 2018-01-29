@@ -15,7 +15,7 @@ __author__ = "Michał Słomkowski"
 __license__ = "Apache 2.0"
 __version__ = "1.0.2"
 
-INDENTATION = ' ' * 4
+INDENTATION = ' ' * 2
 
 TEMPLATE_VARIABLE_OPENING_TAG = '___TEMPLATE_VARIABLE_OPENING_TAG___'
 TEMPLATE_VARIABLE_CLOSING_TAG = '___TEMPLATE_VARIABLE_CLOSING_TAG___'
